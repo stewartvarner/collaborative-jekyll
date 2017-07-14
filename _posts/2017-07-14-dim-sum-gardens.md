@@ -10,4 +10,4 @@ Current Weather Condition: Hot!
 
 Fantastic soup dumplings! 
 
-![]({{site.baseurl}}/http://cdn2.hercampus.com/2015/10/07/Dim-Sum-Garden.jpg)
+![20111208-181503-dim-sum-garden-dumpling-solo.jpg]({{site.baseurl}}/assets/20111208-181503-dim-sum-garden-dumpling-solo.jpg)
