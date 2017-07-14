@@ -2,8 +2,9 @@
 modified: '2017-07-14 10:40 -0400'
 layout: post
 image_teaser: 'https://media3.giphy.com/media/3og0IFRM2W3Ylg4tIA/giphy.gif'
-published: false
+published: true
 title: What I've Done Today
+author: Lauren
 ---
 ## What I've done today (and where I've done it) 
 
