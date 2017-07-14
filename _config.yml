@@ -17,7 +17,7 @@ minima:
 # - about.html
 
 prose:
-  rooturl: '_sass'
+  rooturl: '_posts'
   media: 'assets'
   metadata:
     _posts:
