@@ -76,6 +76,11 @@ prose:
         field:
           element: "hidden"
           value: CURRENT_DATETIME
+      - name: "Current Weather Condition"
+        field:
+          element: "text"
+          label: 'Weather'
+          placeholder: "What is the weather like right now?"
           
 # Build settings
 markdown: kramdown
